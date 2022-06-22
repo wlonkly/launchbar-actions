@@ -1,0 +1,9 @@
+[submodule "st3fan-LaunchBarActions"]
+	path = st3fan-LaunchBarActions
+	url = git@github.com:st3fan/LaunchBarActions.git
+[submodule "Joilence-LaunchBar-Actions"]
+	path = Joilence-LaunchBar-Actions
+	url = git@github.com:Joilence/LaunchBar-Actions.git
+[submodule "prenagha-launchbar"]
+	path = prenagha-launchbar
+	url = git@github.com:prenagha/launchbar
